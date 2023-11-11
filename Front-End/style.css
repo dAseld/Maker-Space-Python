@@ -1,0 +1,47 @@
+
+
+h1{
+    padding-top: 50px;
+}
+
+
+
+.btn{
+    width: 200px;
+    height: 40px;
+  
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 20px;
+ 
+}
+
+.btn:hover{
+
+
+    background: rgb(0, 255, 128);
+    color: white;
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    align-items: center;
+}  
+
+
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+    background: #27ceec;
+    color: #ffffff;
+}
+
